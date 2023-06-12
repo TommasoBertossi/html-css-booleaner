@@ -10,4 +10,12 @@
 
 .autor{
     line-height: 2px;
+    font-style: normal;
+}
+.small-text{
+    font-size: small;
+}
+
+.notable{
+    background-color: yellow;
 }
