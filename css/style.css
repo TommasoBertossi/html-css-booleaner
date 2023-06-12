@@ -1,5 +1,5 @@
 .header-background{
-    width: 200px;
-    height: 200px;
-    background-image: url(../img/pattern.png);
+    height: 150px;
+    background-image: url('../img/pattern.png');
+    background-color: aqua;
 }
