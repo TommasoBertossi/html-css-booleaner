@@ -1,4 +1,5 @@
 .header-background{
-    width: 50px;
+    width: 200px;
+    height: 200px;
     background-image: url(../img/pattern.png);
 }
